@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyIIntentApp</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="this_is_moveactivity">Ini adalah Move Activity</string>
+</resources>
